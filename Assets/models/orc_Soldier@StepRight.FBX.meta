@@ -1,0 +1,80 @@
+fileFormatVersion: 2
+guid: bd40ccd3fc7aa44e2b2b60975d1806ce
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: Mesh_Orc_Soldier_Helmet
+    4300002: Mesh_Orc_Soldier_Shield
+    4300004: Mesh_Orc_Soldier_Cleaver
+    4300006: Mesh_Orc_Soldier_Armor_ShoulderR
+    4300008: Mesh_Orc_Soldier_Armor_StrapR
+    4300010: Mesh_Orc_Soldier_Armor_ShoulderL
+    4300012: Mesh_Orc_Soldier_Armor_StrapL
+    4300014: Mesh_Orc_Soldier_Armor_KneeR
+    4300016: Mesh_Orc_Soldier_Armor_KneeL
+    4300018: Mesh_Orc_Soldier_Armor_Cod
+    4300020: Mesh_Orc_Soldier
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
